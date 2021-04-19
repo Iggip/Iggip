@@ -4,7 +4,7 @@
 - 😁 Fun fact: SAS is my teacher
 - 🥖 Interesting fact: I'm trivial Entusiast in quasi superposition
 - 🦠 Not interesting fact: Finly is not exist
-- 😿 Sad fact: I am not as worthy of the title of lyceum student as Andriy Andreev
+- 😿 Sad fact: I am not as worthy of the title of lyceum student as Andrew Andreev
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iggip&show_icons=true&theme=dark)
 
