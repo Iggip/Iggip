@@ -1,4 +1,5 @@
 ### Hi SAS
+- ⌨️ I’m bot-developer(IT Specialist(experience 1 year))
 - 🌱 I’m currently learning quasiPython
 - 📫 How to reach me: No way
 - 😁 Fun fact: SAS is my teacher
